@@ -1,0 +1,10 @@
+{
+  "concepts": [
+    "c/command.json",
+    "p/predicate.json",
+    "c/city.json",
+    "l/London.json",
+    "a/a city.json",
+    "p/Paris.json"
+  ]
+}
